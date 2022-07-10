@@ -1,3 +1,6 @@
+/*Given an array Arr of N positive integers, find K largest elements from the array.  
+The output elements should be printed in decreasing order.*/
+
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
